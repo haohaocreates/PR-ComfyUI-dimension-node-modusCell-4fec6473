@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-dimension-node-moduscell"
+description = "Simple node for sharing latent image size between nodes. Preset dimensions for SD and XL."
+version = "1.0.0"
+license = "LICENSE"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/modusCell/ComfyUI-dimension-node-modusCell"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-dimension-node-modusCell"
+Icon = ""
